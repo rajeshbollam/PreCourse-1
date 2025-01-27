@@ -1,6 +1,9 @@
-  
 // Java program to implement 
 // a Singly Linked List 
+//Time Complexity: O(n) to insert a new element in the linked list.
+//Time Complexity: O(n) to print the linked list.
+//Space Complexity: O(1).
+
 public class LinkedList { 
   
     Node head; // head of list 

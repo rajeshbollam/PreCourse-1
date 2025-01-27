@@ -1,3 +1,5 @@
+//Time Complexity: O(1) for push, pop, peek and isEmpty methods.
+//Space Complexity: O(1) for push, pop, peek and isEmpty methods.
 class Stack { 
     //Please read sample.java file before starting.
   //Kindly include Time and Space complexity at top of each file

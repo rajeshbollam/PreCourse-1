@@ -1,3 +1,5 @@
+//Time Complexity: O(1) for all operations.
+//Space Complexity: O(1) for all operations.
 public class StackAsLinkedList { 
   
     StackNode root; 
